@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>repl.it</title>
+    <style>
+body{background-image:url("rose.jpg"),url("rose.jpg");
+background-color:gold;
+background-attachment:fixed;
+background-position:top right;
+}
+</style>
+</head>
